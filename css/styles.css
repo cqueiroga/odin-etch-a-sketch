@@ -1,0 +1,18 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#container {
+	border: 1px solid black;
+	height: 720px;
+	width: 832px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.grids {
+	border: 1px solid black;
+	width: 14px;
+	height: 14px;
+}
