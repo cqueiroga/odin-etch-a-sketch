@@ -16,3 +16,11 @@
 	width: 16px;
 	height: 16px;
 }
+#btnContainer {
+	width: 832px;
+	text-align: center;
+}
+#gridSizeBtn {
+	width: 100px;
+	margin: 10px auto;
+}
